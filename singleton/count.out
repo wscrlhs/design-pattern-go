@@ -1,0 +1,14 @@
+mode: count
+design-pattern/singleton/singleton.go:15.28,17.27 1 12
+design-pattern/singleton/singleton.go:17.27,21.28 3 10
+design-pattern/singleton/singleton.go:21.28,24.4 2 2
+design-pattern/singleton/singleton.go:24.9,26.4 1 8
+design-pattern/singleton/singleton.go:27.8,29.3 1 2
+design-pattern/singleton/singleton.go:31.2,31.23 1 12
+design-pattern/singleton/singleton.go:41.30,42.28 1 12
+design-pattern/singleton/singleton.go:42.28,44.11 1 2
+design-pattern/singleton/singleton.go:44.11,47.5 2 2
+design-pattern/singleton/singleton.go:48.8,50.3 1 10
+design-pattern/singleton/singleton.go:52.2,52.24 1 12
+design-pattern/singleton/singleton.go:55.14,57.2 1 1
+design-pattern/singleton/singleton.go:59.15,62.2 2 1
